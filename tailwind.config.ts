@@ -29,9 +29,9 @@ const config = {
           1: '#28A745', // Green shade
         },
         sky: {
-          2: '#218838', // Darker green
-          3: '#1E7E34', // Even darker green
-          4: '#155724', // Darkest green
+          1: '#218838', // Darker green
+          2: '#1E7E34', // Even darker green
+          3: '#155724', // Darkest green
         },
         orange: {
           1: '#FF742E',
